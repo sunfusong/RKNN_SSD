@@ -1,0 +1,8 @@
+com.rockchip.gdapc.demo.glhelper
+raw line_fragment
+raw line_vertex
+raw oestex_fragment
+raw oestex_vertex
+raw tex_fragment
+raw tex_vertex
+string app_name

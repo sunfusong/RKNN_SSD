@@ -1,0 +1,50 @@
+
+{
+	"buildFiles" : [ "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/home/sfs/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"rkssd4j-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "rkssd4j",
+			"buildCommand" : "/home/sfs/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/release/arm64-v8a --target rkssd4j",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android27 --gcc-toolchain=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Drkssd4j_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -fexceptions -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/jni/ssd_native_c_api.cc",
+					"workingDirectory" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android27 --gcc-toolchain=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Drkssd4j_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -fexceptions -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/jni/ssd_image.cc",
+					"workingDirectory" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android27 --gcc-toolchain=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Drkssd4j_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -fexceptions -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/jni/direct_texture.cc",
+					"workingDirectory" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/cmake/release/obj/arm64-v8a/librkssd4j.so",
+			"toolchain" : "12608175429200329433"
+		}
+	},
+	"toolchains" : 
+	{
+		"12608175429200329433" : 
+		{
+			"cCompilerExecutable" : "/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/sfs/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

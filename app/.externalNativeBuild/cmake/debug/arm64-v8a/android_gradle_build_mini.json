@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/sfs/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "rkssd4j-Debug-arm64-v8a": {
+      "artifactName": "rkssd4j",
+      "buildCommand": "/home/sfs/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/debug/arm64-v8a --target rkssd4j",
+      "abi": "arm64-v8a",
+      "output": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so"
+    }
+  }
+}

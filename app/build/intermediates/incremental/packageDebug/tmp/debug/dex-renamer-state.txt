@@ -1,0 +1,10 @@
+#Fri Jul 19 16:12:37 CST 2019
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/transforms/dexMerger/debug/3
+base.1=/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/transforms/dexMerger/debug/0
+base.0=/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/transforms/dexMerger/debug/2

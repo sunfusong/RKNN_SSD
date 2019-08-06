@@ -1,0 +1,3 @@
+/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rkssd4j.dir

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fps_text">#001631</color>
+    <color name="title_bg">#50001631</color>
+    <color name="title_text">#06ebff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">RK3399Pro SSD Demo</string>
+    <string name="app_title">RK3399Pro SSD Demo</string>
+    <string name="buttonCamera">SSD Camera Demo</string>
+    <string name="buttonImage">SSD Image Demo</string>
+    <string name="powered_by_rockchip">Powered by Rockchip GPADC.</string>
+    <string name="title_activity_start">RK3399Pro SSD Demo</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/drawable-hdpi_num_bg.png.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/drawable-hdpi/num_bg.png"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/drawable-hdpi_rockchip.png.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/drawable-hdpi/rockchip.png"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/drawable-hdpi_img_logo.png.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/drawable-hdpi/img_logo.png"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_line_vertex.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/line_vertex.glsl"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_tex_fragment.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/tex_fragment.glsl"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_oestex_fragment.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/oestex_fragment.glsl"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_ssd.rknn.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/raw/ssd.rknn"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/drawable-hdpi_fps_bg.9.png.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/res/drawable-hdpi/fps_bg.9.png"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_oestex_vertex.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/oestex_vertex.glsl"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_line_fragment.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/line_fragment.glsl"
+    },
+    {
+        "merged": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/app/build/intermediates/res/merged/debug/raw_tex_vertex.glsl.flat",
+        "source": "/home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/packaged_res/debug/raw/tex_vertex.glsl"
+    }
+]

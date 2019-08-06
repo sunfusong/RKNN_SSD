@@ -1,0 +1,7 @@
+int raw line_fragment 0x7f140001
+int raw line_vertex 0x7f140002
+int raw oestex_fragment 0x7f140003
+int raw oestex_vertex 0x7f140004
+int raw tex_fragment 0x7f140005
+int raw tex_vertex 0x7f140006
+int string app_name 0x7f150001

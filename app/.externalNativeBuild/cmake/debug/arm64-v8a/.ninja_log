@@ -1,0 +1,21 @@
+# ninja log v5
+0	241	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_native_c_api.cc.o	f90c0907fa8635c5
+1	312	0	CMakeFiles/rkssd4j.dir/src/main/jni/direct_texture.cc.o	f43c1c494dcdf7d4
+1	600	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_image.cc.o	70df4b201f8e436e
+600	707	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so	a8155cbd1d0614bc
+1	228	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_native_c_api.cc.o	f90c0907fa8635c5
+1	240	0	CMakeFiles/rkssd4j.dir/src/main/jni/direct_texture.cc.o	f43c1c494dcdf7d4
+1	569	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_image.cc.o	70df4b201f8e436e
+569	587	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so	a8155cbd1d0614bc
+10	1120	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_native_c_api.cc.o	f90c0907fa8635c5
+11	1165	0	CMakeFiles/rkssd4j.dir/src/main/jni/direct_texture.cc.o	f43c1c494dcdf7d4
+10	1612	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_image.cc.o	70df4b201f8e436e
+1612	1966	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so	a8155cbd1d0614bc
+2	286	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_native_c_api.cc.o	f90c0907fa8635c5
+3	313	0	CMakeFiles/rkssd4j.dir/src/main/jni/direct_texture.cc.o	f43c1c494dcdf7d4
+3	602	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_image.cc.o	70df4b201f8e436e
+602	618	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so	a8155cbd1d0614bc
+1	248	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_native_c_api.cc.o	f90c0907fa8635c5
+1	282	0	CMakeFiles/rkssd4j.dir/src/main/jni/direct_texture.cc.o	f43c1c494dcdf7d4
+1	595	0	CMakeFiles/rkssd4j.dir/src/main/jni/ssd_image.cc.o	70df4b201f8e436e
+595	612	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/librkssd4j.so	a8155cbd1d0614bc

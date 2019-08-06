@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [:glhelper] /home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:11:19-57
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:13:22-72
+application
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:15:5-33:19
+	android:label
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:17:9-42
+	android:allowBackup
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:19:9-67
+activity#com.rockchip.gpadc.ssddemo.MainActivity
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:screenOrientation
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:26:13-50
+	android:label
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+MERGED from [:glhelper] /home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:glhelper] /home/sfs/project/rknn-api/Android/rk_ssd_demo/glhelper/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		ADDED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sfs/project/rknn-api/Android/rk_ssd_demo/app/src/main/AndroidManifest.xml
